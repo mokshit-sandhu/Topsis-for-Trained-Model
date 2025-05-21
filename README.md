@@ -71,15 +71,3 @@ The bar chart above shows the relative closeness of different models as calculat
 
 ---
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Prerit-Bhagat/Text-Summarization-Topsis-For-pre-trained-Models.-
-
-
-## Conclusion
-This evaluation demonstrates that the facebook/bart-large-cnn model outperformed others in terms of ROUGE, BLEU, and BERTScore metrics, making it the most suitable choice for text summarization tasks based on the given dataset.
-
-The TOPSIS methodology proved to be an effective multi-criteria decision-making tool, enabling a comprehensive comparison across various metrics. It highlights the importance of evaluating models holistically rather than relying on a single metric, ensuring robust and unbiased results.
-
-While models like t5-small and t5-base offered satisfactory performance, their relative closeness scores suggest they are better suited for resource-constrained environments. In contrast, Falconsai/text_summarization and google/pegasus-cnn_dailymail ranked lower, potentially indicating limitations in handling the specific dataset used.
